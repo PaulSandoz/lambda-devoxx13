@@ -1,0 +1,7 @@
+# exclude java/util/stream/IntPipeline sum
+# exclude java/util/stream/IntPipeline reduce
+# exclude java/util/stream/AbstractPipeline evaluate
+# exclude java/util/stream/ReduceOps$ReduceOp evaluateSequential
+# exclude java/util/stream/AbstractPipeline wrapAndCopyInto
+# exclude java/util/stream/AbstractPipeline copyInto
+exclude java/util/Spliterator$OfInt forEachRemaining 
