@@ -1,1 +1,4 @@
-Lambda/stream Devoxx 13 examples
+# Lambda/stream Devoxx 13 examples
+
+## Usage
+`./run.sh` to get this running on your machine.
